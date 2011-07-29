@@ -1,12 +1,19 @@
-public void stati func()
+class test
 {
-	for(int i=o;i<10;i++)
+	public void stati func()
 	{
-	System.out.println("hi zhou");
-	System.out.println("this is the" +i"th time");
-	}
+		for(int i=o;i<10;i++)
+		{
+		System.out.println("hi zhou");
+		System.out.println("this is the" +i"th time");
+		}
 	
-}
+	}
+
+	public void static another_func()
+	{
+	}
+};
 
 public void static another_func()
 {
