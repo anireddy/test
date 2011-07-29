@@ -2,3 +2,7 @@ public void stati func()
 {
 	System.out.println("hi zhou");
 }
+
+public void static another_func()
+{
+}
