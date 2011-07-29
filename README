@@ -10,4 +10,5 @@ public void stati func()
 
 public void static another_func()
 {
+	System.out.println("This is another function");	
 }
