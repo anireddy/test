@@ -11,7 +11,14 @@ class test
 	
 	}
 
+<<<<<<< HEAD
 	public void static another_func()
 	{
 	}
 };
+=======
+public void static another_func()
+{
+	System.out.println("This is another function");	
+}
+>>>>>>> da49c1440f5f81516489db43427edc9f1f22a150
